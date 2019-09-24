@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "AstonMartin",
+        "image": "./public/imgs/Aston_Martin.png"
+    },
+    {
+        "id": 2,
+        "name": "Audi",
+        "image": "./public/imgs/Audi.png"
+    },
+    {
+        "id": 3,
+        "name": "Bentley",
+        "image": "./public/imgs/Bentley.png"
+    },
+    {
+        "id": 4,
+        "name": "BMW",
+        "image": "./public/imgs/BMW.png"
+    },
+    {
+        "id": 5,
+        "name": "Bugatti",
+        "image": "./public/imgs/Bugatti.png"
+    },
+    {
+        "id": 6,
+        "name": "Ferrari",
+        "image": "./public/imgs/Ferrari.png"
+    },
+    {
+        "id": 7,
+        "name": "Jaguar",
+        "image": "./public/imgs/Jaguar.png"
+    },
+    {
+        "id": 8,
+        "name": "Lamborghini",
+        "image": "./public/imgs/Lamborghini.png"
+    },
+    {
+        "id": 9,
+        "name": "Maybach",
+        "image": "./public/imgs/Maybach.png"
+    },
+    {
+        "id": 10,
+        "name": "Mercedes",
+        "image": "./public/imgs/Mercedes.png"
+    },
+    {
+        "id": 11,
+        "name": "Porsche",
+        "image": "./public/imgs/Porsche.png"
+    },
+    {
+        "id": 12,
+        "name": "RollsRoyce",
+        "image": "./public/imgs/RollsRoyce.png"
+    }
+]
